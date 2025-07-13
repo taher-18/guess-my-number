@@ -25,18 +25,18 @@ Example:
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Post Details</p>
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="assets/IMG_7946.PNG" alt="Comments" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="assets/IMG_8246.PNG" alt="Comments" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Comments</p>
   </div>
 
   <div style="flex: 1; min-width: 200px;">
-    <img src="assets/IMG_7947.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="assets/IMG_8247.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Post Details</p>
   </div>
 
   
   <div style="flex: 1; min-width: 200px;">
-    <img src="assets/IMG_7948.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="assets/IMG_8248.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Post Details</p>
   </div>
 
